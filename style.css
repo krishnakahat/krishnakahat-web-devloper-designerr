@@ -1,0 +1,270 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.main{
+	background-color: #e0ebe8;
+	height: 700px;
+}
+.heading h1{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Marck Script', cursive;
+	margin-top: 20px;
+}
+.heading h2{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+.mountain img{
+	margin-left: 25%;
+	top: 400px;
+	display: inline-block;
+    padding: 0;
+    margin-left: 18.75%;
+    position: absolute;
+}
+.cloud-top img{
+	width: 16%;
+	margin-left: 68%;
+	margin-top: 59px;
+}
+.cloud-bottum img{
+     width: 16%;
+     display: inline-block;
+     top: 30px;
+     margin-left: 5%;
+    
+}
+.hi h1{
+	margin-top: 80px;
+	text-align: center;
+}
+.hi p{
+	text-align: center;
+}
+.next{
+	
+	width: 100%;
+	margin:0;
+    
+}
+hr{
+	border-top: dotted;
+	width: 30px;
+   margin-left: 50%;
+   margin-top: 35px;
+   color: #a9a9a9;
+}
+.next p{
+	font-family:'Bodoni Moda', serif;  
+     margin-top: 2s0px;
+     font-size: 25px;
+     color: #a9a9a9;
+}
+.next h1{
+
+	color: #45b29a;
+    font-family: "Yusei Magic script=latin rev=1";	
+     margin-top: 100px;
+    font-size: 50px;
+}
+.do h1{
+	font-family:   "Yusei Magic script=latin rev=1";  
+    color:  #45b29a;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px; 
+}
+.i h2{
+	margin-left: 55%;
+	margin-top: 50px;
+	 color:  #45b29a;
+	 font-family:   "Yusei Magic script=latin rev=1";
+    font-size: 2em;
+}
+.i-do p{
+	top:1250px; 
+	margin-right:30px;
+	margin-left: 48%;
+	font-family: 'Bodoni Moda', serif; 
+	font-size: 25px;
+     color: #a9a9a9;
+     position: absolute;
+}
+.i-do img{
+	
+	margin-left:  19%;
+	width: 240px;
+	display: inline-block;
+}
+.develop h2{
+	margin-left: 19%;
+	margin-top: 80px;
+	 color:  #45b29a;
+	 font-family:   "Yusei Magic script=latin rev=1";
+    font-size: 2em;
+}
+.develop p{
+	top:1620px; 
+	margin-right:30px;
+	margin-left: 16%;
+	font-family: 'Bodoni Moda', serif; 
+	font-size: 25px;
+     color: #a9a9a9;
+     position: absolute;
+}
+.develop img{
+	margin-left:  63%;
+	width: 240px;
+	display: inline-block;
+}
+.help h1{
+	font-family:   "Yusei Magic script=latin rev=1";  
+    color:  #45b29a;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px; 
+}
+.i-can h2{
+	margin-left: 29%;
+	margin-top: 30px;
+	 color:  #45b29a;
+	 font-family:  "brandon-grotesque,HelveticaNeue-Light";
+    font-size: 30px;
+}
+
+.help p{
+    text-align: center;
+    margin-top: 60%;
+    margin-left: 20%;
+    }
+
+button[type=submit]
+{
+  background-color: #45b29a;
+  color:  #1b7f69;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 43%;
+  margin-top: 155px;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+.footer{
+	background-color: #c5ded7;
+	height: 150px;
+}
+.d-inline  img{
+	width: 40px;
+	margin-top: 4%;
+	margin-left: 20%;
+	display: inline-block;
+	position: absolute;
+}
+.d-inline  img{
+	width: 40px;
+	margin-top: 4%;
+	margin-left: 35%;
+	position: absolute;
+	display: inline-block;
+}
+.d-inline  img{
+	width: 40px;
+	margin-top: 4%;
+	margin-left: 45%;
+	position: absolute;
+	display: inline-block;
+}
+.d-inline  img{
+	width: 40px;
+	margin-top: 4%;
+	margin-left: 40%;
+    position: absolute;
+	display: inline-block;
+}
+.footer-bottom {
+	margin-top: 130px;
+	position: absolute;
+	margin-left:37%;
+	color: #a9a9a9;
+}
+@media screen and (max-width:1024px) {
+
+.help p{
+	margin-top: 102%;
+	margin-left: 100px;
+	font-size: 28px;
+}
+
+
+.hi p{
+	font-size: 30px;
+}
+.do h1{
+	font-size: 80px;
+}
+.i h2{
+	font-size: 45px;
+	margin-left: 450px;
+}
+
+.develop h2{
+	font-size: 45px;
+	margin-left: 80px;
+}
+.help h1{
+	font-size: 80px;
+}
+.i-can h2{
+	font-size: 43px;
+	width: 100%
+	margin-right:90px;
+	margin-left: 150px;
+}
+.develop p{
+      margin-top: 110px;
+      margin-left: 90px;
+      font-size: 28px;
+}
+.p p{
+   margin-top: 100px;
+  width: 100%;
+ margin-left:380px;
+   font-size: 28px;
+}
+.k img{
+	margin-left: 80px;
+}
+.k-k img{
+	margin-left: 700px;
+}
+.footer-bottom {
+	font-size: 25px;
+	margin-left: 250px;
+}
+.footer {
+	width: 100%;
+	height: 180px;
+}
+button[type=submit]
+{
+  background-color: #45b29a;
+  color:  #1b7f69;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 43%;
+  margin-top: 155px;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+}
