@@ -197,7 +197,7 @@ button[type=submit]
 }
 @media screen and (max-width:500px) {
 
-}	
+	
 
 .hi h1{
 	font-size: 7em;
@@ -289,4 +289,4 @@ button[type=submit]
 .d-inline {
 	padding: 50px;
 }
-
+}
