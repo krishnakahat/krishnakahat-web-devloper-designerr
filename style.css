@@ -195,9 +195,9 @@ button[type=submit]
 	margin-left:37%;
 	color: #a9a9a9;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:500px;) {
 
-	
+}	
 
 .hi h1{
 	font-size: 7em;
@@ -288,5 +288,4 @@ button[type=submit]
 }
 .d-inline {
 	padding: 50px;
-}
 }
